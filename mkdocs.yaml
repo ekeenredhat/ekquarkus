@@ -1,0 +1,8 @@
+site_name: "ekquarkus"
+site_description: "blah blah"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
